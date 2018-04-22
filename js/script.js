@@ -13,20 +13,20 @@ var quotes = [
     quote: "Live as if you were to die tomorrow. Learn as if you were to live forever.",
     source: "Mahatma Gandhi",
     citation: "American Journal of Education",
-    year: 1877,
+    date: 1877,
     tag: "Life"
   },
   {
     quote: "If a man does his best, what else is there?",
     source: "General George S. Patton",
-    year: 1945,
+    date: 1945,
     tag: "Drive"
   },
   {
     quote: "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.",
     source: "Barack Obama",
     citation: "APA Style Citation",
-    year: 2018,
+    date: 2018,
     tag: "Drive"
   },
   {
